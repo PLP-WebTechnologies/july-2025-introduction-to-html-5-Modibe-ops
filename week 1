@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My first web page</title>
+    </head>
+    <body>
+        <!-- headings -->
+         <h1>Welcome to my web page</h1>1>
+         <!-- paragraph -->
+         <p>this is my first web page</p>
+         <p>isnt this amazing</p>
+         <!-- ordered list -->
+          <h3>unordered list</h3>
+          <ul>
+            <li>math</li>
+            <li>english</li>
+            <li>chemistry</li>
+            <li>biology</li>
+          </ul>
+          <!--ordered list -->
+          <h3>ordered list</h3>
+          <ol type="1">
+            <li>python</li>
+            <li>web development</li>
+            <li>software engineering</li>
+          </ol>
+          <!--anchor -->
+    </body>
+</html>
